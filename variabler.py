@@ -1,7 +1,6 @@
-ted = 10
-alvar = 3
-dålig = ted + alvar
-print(dålig)
+name = input("Vading hetering duing?")
+print("hej, " + name + "!")
 
-print("ja")
-print("nej")
+datum = int(input("När är du född "))
+ålder = (2026 - datum)
+print(f"Du är {ålder} gammal.")
