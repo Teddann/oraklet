@@ -1,10 +1,11 @@
 import random
 
-gissning = input("Gissa vilken siffra jag tänker på. ")
+gissning = int(input("Gissa vilken siffra jag tänker på. "))
 
-nummer = random.randint(0, 9)
+nummer = random.randint (0,9)
 
 if nummer == gissning: 
-    
-    print("Du hade rätt!")
-else: print("Du hade fel.")
+    print("Du hade rättttttttttttttttttttttt!")
+else: 
+    print("Du hade fel.")
+
