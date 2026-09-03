@@ -7,5 +7,6 @@ nummer = random.randint (0,9)
 if nummer == gissning: 
     print("Du hade rättttttttttttttttttttttt!")
 else: 
-    print("Du hade fel.")
+
+  
 
