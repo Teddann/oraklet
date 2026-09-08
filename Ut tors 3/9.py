@@ -90,4 +90,3 @@ if tärning + tarning + tarnung + tärnung + tirnung > 10:
     exit()
 else:
     svarate = input("Vill du fortsätta slå?")
-
